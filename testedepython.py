@@ -1,5 +1,5 @@
 nome = input('Digite seu Nome: ')
 print('Seja Bem-Vindo,', nome)
 pergunta = input('Você deseja virar um Hacker?: ')
-print('Entendi, então a resposta é:,', pergunta)
-print('Bem, você irá ficar querendo ser, vai tomar no cúkkk!')
+print('Entendi, então a resposta é:,' pergunta')
+print('Olha, você irá ficar querendo ser, não vou te ajudar, vai tomar no cú, kkkk!')
