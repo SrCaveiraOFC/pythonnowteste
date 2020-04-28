@@ -1,2 +1,2 @@
-nome = input('Sr.Caveira')
+nome = input('Digite seu Nome:')
 print('Seja Bem-Vindo,', nome)
